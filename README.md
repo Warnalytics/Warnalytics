@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-🌱 I’m currently working on an interactive data science web dashboard to help with market research, with two masters in Economics and two awards in this research field, I hope to benefit others while demonstrating my skill :)
+🌱 I’m currently working on an interactive data science web dashboard to help with market research. With two masters in Economics and two awards in the market research field, I hope to benefit others while demonstrating my skill :)
+
+📫 You can reach me on LinkedIn, I'm quite active there and also promote videos of my work there. Link: https://www.linkedin.com/in/warnerdejong/
 
 👈 There, you see a number of coding skills I have. My data science bread-and-butter languages are Python and SQL so far.
 
